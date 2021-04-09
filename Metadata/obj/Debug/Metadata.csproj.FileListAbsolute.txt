@@ -1,0 +1,6 @@
+C:\Programas\SistemaCadastroParkHotel\Metadata\bin\Debug\Metadata.dll
+C:\Programas\SistemaCadastroParkHotel\Metadata\bin\Debug\Metadata.pdb
+C:\Programas\SistemaCadastroParkHotel\Metadata\obj\Debug\Metadata.csprojAssemblyReference.cache
+C:\Programas\SistemaCadastroParkHotel\Metadata\obj\Debug\Metadata.csproj.CoreCompileInputs.cache
+C:\Programas\SistemaCadastroParkHotel\Metadata\obj\Debug\Metadata.dll
+C:\Programas\SistemaCadastroParkHotel\Metadata\obj\Debug\Metadata.pdb

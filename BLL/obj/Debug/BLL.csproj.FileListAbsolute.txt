@@ -1,0 +1,11 @@
+C:\Programas\SistemaCadastroParkHotel\BLL\bin\Debug\BLL.dll
+C:\Programas\SistemaCadastroParkHotel\BLL\bin\Debug\BLL.pdb
+C:\Programas\SistemaCadastroParkHotel\BLL\bin\Debug\DAL.dll
+C:\Programas\SistemaCadastroParkHotel\BLL\bin\Debug\Metadata.dll
+C:\Programas\SistemaCadastroParkHotel\BLL\bin\Debug\DAL.pdb
+C:\Programas\SistemaCadastroParkHotel\BLL\bin\Debug\Metadata.pdb
+C:\Programas\SistemaCadastroParkHotel\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Programas\SistemaCadastroParkHotel\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Programas\SistemaCadastroParkHotel\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Programas\SistemaCadastroParkHotel\BLL\obj\Debug\BLL.dll
+C:\Programas\SistemaCadastroParkHotel\BLL\obj\Debug\BLL.pdb
